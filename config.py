@@ -1,0 +1,10 @@
+API_ID = 23032012 # Replace this! You can get these variables from https://my.telegram.org
+API_HASH = "5e47a644cc456147dbc79a24511c4dbb" # API_HASH
+TOKEN = "7028442734:AAE9z6MrSclWUGcF3ku4NaLm-9rPkiMg8d4" # BOT_TOKEN
+USERNAME = "cricxlinks_bot" # USERNAME_OF_YOUR_BOT
+DB_URL = "mongodb+srv://Manu:Manu@manu.mudmj2s.mongodb.net/" # MONGO_DB_URL_FOR_ACCESS
+DB_NAME = "Manu" # DATABASE_NAME
+USER_COLL_NAME = "Users" # COLLECTION_NAME_WHERE_ARE_USERS
+CHAT_COLL_NAME = "Chats" # COLLECTION_NAME_WHERE_ARE_CHATS
+ID_FIELD_NAME = "1" # FIELD_NAME_OF_ID
+SUDO = [6704116482] # SUDO_USER_ID1, SUDO_USER_ID2, SUDO_USER_ID3...
